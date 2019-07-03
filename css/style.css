@@ -1,0 +1,10 @@
+.entrada{
+  height: 100%;
+  min-height: 35rem;
+  position: relative;
+  font-family: 'Source Sans Pro';
+}
+
+.gif{
+	background: url("");
+}
