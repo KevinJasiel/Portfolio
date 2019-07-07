@@ -49,7 +49,6 @@
 	transition: 0.25s;
 }
 
-
 .box input:hover{
 	background: rgb(202, 198, 198, .5);
 }
@@ -83,8 +82,21 @@
 	background-size: cover;
 }
 
-.main{
+.main a{
 	color: white;
 	font-size: 18px;
 	font-family: "Times New Roman";
+	text-decoration: none;
+}
+
+.main a:hover{
+	color: yellow;
+}
+
+.present{
+	color: white;
+	text-align: center;
+	font-family: "Script";
+	font-style: italic;
+	font-size: 45px;
 }
