@@ -121,3 +121,9 @@
 .serv{
 	background: white;
 }
+
+.basic{
+	background: white;
+	width: 100% !important;
+	text-align: center;
+}
