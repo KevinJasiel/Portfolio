@@ -85,7 +85,7 @@
 .main a{
 	color: white;
 	font-size: 18px;
-	font-family: "Times New Roman";
+	font-family: "Quicksand";
 	text-decoration: none;
 }
 
@@ -99,4 +99,25 @@
 	font-family: "Script";
 	font-style: italic;
 	font-size: 45px;
+}
+
+.presen{
+	color: white;
+	text-align: center;
+	font-family: "Montserrat";
+	font-size: 55px;
+	font-style: italic;
+}
+
+.tell:hover{
+	border-color: rgb(202, 198, 198, .5);
+}
+
+.tell{
+	background: rgb(0, 0, 0, .5);
+	border: 1.5px solid #1C2938;
+}
+
+.serv{
+	background: white;
 }
