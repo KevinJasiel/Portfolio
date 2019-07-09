@@ -29,6 +29,13 @@
   	text-align: center; 
 }
 
+.log{
+	font-family: "Shadows Into Light";
+	font-size: 30px;
+	color: yellow;
+	font-style: oblique;
+}
+
 .box input{
 	color: white;
 	text-decoration: none;
@@ -132,5 +139,17 @@
 	font-family: sans-serif;
 	font-size: 30px;
 	color: black;
+	text-align: center;
+}
+
+.serve{
+	font-family: "nunito";
+	font-size: 22px;
+	text-align: center;
+}
+
+.ter{
+	font-family: "PT serif";
+	font-size: 20px;
 	text-align: center;
 }
