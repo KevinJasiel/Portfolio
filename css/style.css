@@ -153,3 +153,10 @@
 	font-size: 20px;
 	text-align: center;
 }
+
+.infor{
+	text-align: center;
+	font-family: "Roboto Slab";
+	font-size: 15px;
+	color: #6c757d !important;
+}
