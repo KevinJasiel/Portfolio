@@ -161,3 +161,42 @@
 	color: #6c757d !important;
 }
 
+.iconos{
+	padding-right: 95%;
+	padding-top: 5%;
+	display: list-item;
+}
+
+footer{
+	padding: 2.5%;
+	margin-top: 20px;
+	background-color: rgb(87, 73, 70, .5);
+	text-align: center;
+}
+
+.cente{
+	padding-left: 2.5%;
+}
+
+.img{
+	height: 200px;
+	width: 300px;
+	padding: 3%;
+	padding: 5%; 
+}
+
+.subs{
+	text-align: center;
+	font-size: 25px; 
+}
+
+.subt{
+	text-align: center;
+	font-size: 15px;
+}
+
+.bot input{
+	text-align: center;
+	font-size: 18px;
+	color: black;
+}
